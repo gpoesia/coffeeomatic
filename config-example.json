@@ -1,0 +1,11 @@
+{
+    "seed": "any-string-to-be-the-random-seed",
+    "quotes_file": "path/to/quotes/database",
+    "start_date": "12/31/2022",
+    "frequency_weeks": 1,
+    "message_header": "Beep boop! Check the list below to find your next coffee buddy. Try to find a time this week to informally chat about life, the universe and everything!\n",
+    "channel_id": "Some Slack channel ID",
+    "kickstart_message_prefix": "React to this message if you want to grab coffee with other people!",
+    "rounds": 4,
+    "slack_bot_token": "token_you_get_from_slack"
+}
